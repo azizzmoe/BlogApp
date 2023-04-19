@@ -6,8 +6,6 @@ This is a mock blog application made using Express and Ejs for generating the te
 
 ![Screenshot](./screenshot/Screenshot.png)
 ---
-## [Live Site](https://azizzmoe.github.io/dailyjournal/)
-
 ### Development tools
 
 - EJS - as Templating language
